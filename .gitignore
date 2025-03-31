@@ -1,0 +1,7 @@
+dbinfo.php
+*.obj
+!config.php
+/readme.txt
+/pup/
+doc/**/*.txt
+
